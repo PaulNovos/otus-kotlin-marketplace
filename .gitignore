@@ -1,0 +1,15 @@
+.gradle
+**/build/
+!src/**/build/
+
+gradle-app.settings
+
+!gradle-wrapper.jar
+
+!gradle-wrapper.properties
+
+
+/.idea/
+
+### Mac OS ###
+.DS_Store
